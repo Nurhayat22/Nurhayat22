@@ -1,16 +1,19 @@
-## Hi there 👋
+Salam, mən Nurhayat 👋
 
-<!--
-**Nurhayat22/Nurhayat22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | Data ilə hekayə danışmağı öyrənirəm
 
-Here are some ideas to get you started:
+🧰 Texniki bacarıqlar
+SQL — data sorğulama, aggregasiya, join əməliyyatları
+Python (Pandas) — data təmizləmə və analiz
+Power BI — interaktiv dashboard və hesabatlar
+Excel — pivot table, VLOOKUP/XLOOKUP, data modelləşdirmə
+📊 Hazırda üzərində işlədiyim
+Real dünya datasetləri ilə uçdan-uca analiz layihələri hazırlayıram
+SQL və Python bacarıqlarımı dərinləşdirirəm
+📌 Seçilmiş layihələr
+<!-- Layihələr hazır olduqca bura əlavə olunacaq -->
+🔜 Tezliklə əlavə ediləcək
+📫 Əlaqə
+LinkedIn: https://www.linkedin.com/in/nurhayat-asgarova/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bu profil daim yenilənir — yeni layihələr və bacarıqlar əlavə olunur.
