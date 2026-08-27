@@ -1,6 +1,6 @@
 Salam, mən Nurhayat 👋
 
-Junior Data Analyst | Data ilə hekayə danışmağı öyrənirəm
+Junior Data Analyst 
 
 🧰 Texniki bacarıqlar
 SQL — data sorğulama, aggregasiya, join əməliyyatları
