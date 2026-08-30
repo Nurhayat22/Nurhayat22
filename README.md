@@ -21,6 +21,7 @@ Data təmizləmə, analiz və vizuallaşdırma vasitəsilə biznes qərarlarına
 
 ### 📌 Seçilmiş layihələr
 
+- [SQL Retail Sales Analysis](https://github.com/Nurhayat22/sql-retail-sales-analysis) — Superstore satış datası üzərində SQL sorğuları (JOIN, subquery, window function və s.)
 
 ### 📫 Əlaqə
 LinkedIn: [linkedin.com/in/nurhayat-asgarova](https://www.linkedin.com/in/nurhayat-asgarova/)
