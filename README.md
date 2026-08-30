@@ -20,10 +20,10 @@ Data təmizləmə, analiz və vizuallaşdırma vasitəsilə biznes qərarlarına
 - SQL və Python bacarıqlarımı dərinləşdirirəm
 
 ### 📌 Seçilmiş layihələr
-> Layihələr tezliklə əlavə olunacaq
+
 
 ### 📫 Əlaqə
 LinkedIn: [linkedin.com/in/nurhayat-asgarova](https://www.linkedin.com/in/nurhayat-asgarova/)
+Email: nuraskerovva@gmail.com
 
 ---
-*Bu profil daim yenilənir.*
